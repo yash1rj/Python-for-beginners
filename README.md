@@ -19,7 +19,7 @@ This repo is focused towards people who are learning Python for the first time. 
 * [Modules](markdown-version/modules.md)
 
 ## Additional Sections
-* [Object Oriented Programming](docs/OOP)
+* [Object Oriented Programming](markdown-version/oop.md)
 
 
 ## Contribute
